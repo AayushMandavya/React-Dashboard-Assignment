@@ -1,0 +1,28 @@
+.header {
+    background-color: white;
+    display: flex;
+    width: 700px;
+    height: 142px;
+    gap: 50px;
+    margin-left: 45px;
+    padding: 50px;
+    margin-bottom:-170px;
+}
+
+.header p{
+    font-size: 12px;
+    line-height: 13px;
+    color: black;
+    font-weight: 500;
+}
+
+
+.pos{
+    margin-left: 70px;
+}
+
+.prog{
+    margin-left: 30px;
+    margin-right: 80px;
+}
+

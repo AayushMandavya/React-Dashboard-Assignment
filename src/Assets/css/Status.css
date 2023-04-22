@@ -1,0 +1,40 @@
+p {
+    color: white;
+  }
+   
+  .active {
+    background-color: #19E26A;
+    padding: 2px 14px;
+    border-radius: 9px;
+    font-weight: 600;
+    font-size: 11px;
+    margin-left: 10px;
+    line-height: 13px;
+    letter-spacing: 0.15px;
+    color: #ffffff;
+  }
+  .blocked {
+    background-color: #E21926;
+    padding: 2px 14px;
+    margin-left: 10px;
+    border-radius: 9px;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 13px;
+    letter-spacing: 0.15px;
+    color: #ffffff;
+  }
+  .in_active{
+      background-color: #b1b1b1;
+      padding: 2px 14px;
+      margin-left: 10px;
+      border-radius: 9px;
+      font-weight: 600;
+      font-size: 11px;
+      line-height: 13px;
+      letter-spacing: 0.15px;
+      color: #ffffff;
+  }
+  .unknown {
+    background-color: black;
+  }

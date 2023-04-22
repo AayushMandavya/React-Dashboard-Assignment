@@ -1,0 +1,12 @@
+.Position{
+    margin-left: 25px;
+    height: 14px;
+    width: 70px;
+}
+
+.Position__value{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    color: #767676;
+}

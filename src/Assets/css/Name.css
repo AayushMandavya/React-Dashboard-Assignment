@@ -1,0 +1,39 @@
+  .Name__letter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-left: 22px;
+  }
+  
+  
+  .Name__fullName {
+    width: 130px;
+    height: 19px;
+    
+  }
+
+  .Name__fullName p {
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 500;
+    color: #000000;
+  }
+
+ 
+  .Name__first {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 29px;
+    height: 29px;
+    background: #6200ee;
+    padding: 3px;
+    border-radius: 50%;
+    
+  }
+  .Name__first p {
+    font-size: 14px;
+    font-weight: 500;
+    color: #ffffff;
+  }
