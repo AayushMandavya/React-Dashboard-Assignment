@@ -9,7 +9,7 @@ import Name from "./Components/Name";
 
 function App() {
   return (
-  <>
+  <div className="container">
   <Header/>
 
   {Data.users.map((user)=>(
@@ -29,7 +29,7 @@ function App() {
     </div>
     
 ))}
-  </>
+  </div>
   );
 }
 
